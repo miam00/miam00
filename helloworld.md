@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miam00
 - 👀 I’m interested in how to keep my documents organized.
-- 🌱 I’m currently learning mathematics🌚
+- 🌱 I’m currently learning how to use github🌚
 - 💞️ I’m looking to collaborate on my phd project.
 - 📫 How to reach me ... tell you next time, just for testing.
 
